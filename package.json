@@ -1,0 +1,10 @@
+{
+  "name": "patch-exports-map",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@ms-cloudpack/package-utilities": "^0.0.1",
+    "@ms-cloudpack/path-utilities": "^0.0.1",
+    "glob": "^7.2.0"
+  }
+}
